@@ -20,7 +20,7 @@
 
 #### Outlier Detection and Treatment
 
-    Using the IQR (Interquartile Range) method, outliers were detected across numerical features. Key findings included:
+ Using the IQR (Interquartile Range) method, outliers were detected across numerical features. Key findings included:
     
 •	LIMIT_BAL: 167 outliers (0.56%)
 
