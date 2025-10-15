@@ -2,9 +2,9 @@
 
 ## Introduction
 
-        This project implements a comprehensive machine learning pipeline to predict credit card payment defaults using the UCI "Default of Credit Card Clients" dataset. The dataset contains 30,000 instances from a Taiwan-based credit card issuer (2005) with 23 features spanning demographic information, credit data, payment history, and bill statements from April to September 2005.
+ This project implements a comprehensive machine learning pipeline to predict credit card payment defaults using the UCI "Default of Credit Card Clients" dataset. The dataset contains 30,000 instances from a Taiwan-based credit card issuer (2005) with 23 features spanning demographic information, credit data, payment history, and bill statements from April to September 2005.
         
-        The business objective is to enable financial institutions to assess credit risk and predict the likelihood of customer defaults, facilitating better credit limit decisions and risk management strategies. This is a binary classification problem where the target variable indicates whether a client will default on their credit card payment (1 = Yes, 0 = No).
+ The business objective is to enable financial institutions to assess credit risk and predict the likelihood of customer defaults, facilitating better credit limit decisions and risk management strategies. This is a binary classification problem where the target variable indicates whether a client will default on their credit card payment (1 = Yes, 0 = No).
 
 ## Analysis Process and Methodology
 
