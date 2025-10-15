@@ -142,7 +142,7 @@ Gradient Boosting emerged as the best-performing model with a test accuracy of 8
 
 #### Hyperparameter Tuning
 
-  The Gradient Boosting model underwent hyperparameter optimization. The final optimized parameters were:
+ The Gradient Boosting model underwent hyperparameter optimization. The final optimized parameters were:
 
 •	n_estimators: 100
 
@@ -150,7 +150,7 @@ Gradient Boosting emerged as the best-performing model with a test accuracy of 8
 
 #### Cross-Validation Performance
 
-    The tuned model achieved a mean cross-validation ROC AUC score of 0.7820 with low standard deviation (0.0048), indicating stable and reliable performance.[1]
+ The tuned model achieved a mean cross-validation ROC AUC score of 0.7820 with low standard deviation (0.0048), indicating stable and reliable performance.[1]
 Feature Importance Analysis
 The model's feature importance analysis revealed the top predictors:
 
@@ -189,7 +189,7 @@ The trained pipeline has been saved as tuned_gradient_boosting_pipeline.joblib f
 
 ###### Limitations and Future Work
 
-  Current Limitations:
+ Current Limitations:
 
 •	Dataset is from 2005; modern credit behavior patterns may differ
 
@@ -224,4 +224,4 @@ Tuned Gradient Boosting Classifier:
 | ROC AUC | 77.29% |
 | Cross-Validation ROC AUC | 78.20% (±0.48%) |
 
-    The model demonstrates strong predictive capability and can serve as a reliable tool for credit risk assessment in financial institutions, with the understanding that continuous monitoring and periodic retraining will be necessary to maintain performance in changing economic conditions.
+ The model demonstrates strong predictive capability and can serve as a reliable tool for credit risk assessment in financial institutions, with the understanding that continuous monitoring and periodic retraining will be necessary to maintain performance in changing economic conditions.
